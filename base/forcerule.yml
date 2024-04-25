@@ -676,7 +676,6 @@ Rule:
 - DOMAIN,iyes.youku.com,屏蔽广告
 - DOMAIN,apppv.zol.com.cn,屏蔽广告
 - DOMAIN,pvnapp.zol.com.cn,屏蔽广告
-- DOMAIN-KEYWORD,epochtimes,屏蔽广告
 - DOMAIN,881903.com,屏蔽广告
 - DOMAIN,aboluowang.com,屏蔽广告
 - DOMAIN,bannedbook.org,屏蔽广告
@@ -714,7 +713,6 @@ Rule:
 - DOMAIN,shenyunperformingarts.org,屏蔽广告
 - DOMAIN,shenzhoufilm.com,屏蔽广告
 - DOMAIN,soundofhope.org,屏蔽广告
-- DOMAIN,theepochtimes.com,屏蔽广告
 - DOMAIN,tiandixing.org,屏蔽广告
 - DOMAIN,tuidang.org,屏蔽广告
 - DOMAIN,velkaepocha.sk,屏蔽广告
